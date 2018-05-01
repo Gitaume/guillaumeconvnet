@@ -9,12 +9,12 @@ Intro Note
 * Tasks 1 and 3 are covered in the main.py file, in particular, my_rot.get_dense_output()     (see below)
 
 * Task 2 is covered in the integration test (see below)
+
 Installation
 ============
 
-* The repo may be cloned using:
-	   git clone https://b8528d7551c4aed0059cc6caafcf725b92c3e0a4@github.com/GuillaumeDec/guillaumeconvnets.git
-	   
+Once clone, 
+
 * The best way is then to create a virtual env from which to run the code and tests: 
 	* if not installed, install virtualenv:
 		
